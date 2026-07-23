@@ -1,0 +1,3 @@
+class Merger:
+
+    pass

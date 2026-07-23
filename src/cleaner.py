@@ -1,0 +1,3 @@
+class Cleaner:
+
+    pass
