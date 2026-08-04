@@ -1,0 +1,20 @@
+{
+  "departments": {
+    "valle del cauca": "Valle Del Cauca",
+    "valle": "Valle Del Cauca",
+    "valle del cauca ": "Valle Del Cauca",
+    "cauca": "Cauca"
+  },
+  "municipalities": {
+    "cali": "Cali",
+    "palmira": "Palmira",
+    "popayan": "Popayán",
+    "palmira ": "Palmira",
+    "palmira": "Palmira"
+  },
+  "schools": {
+    "ie gabo": "IE GABO",
+    "institucion educativa chinas": "Institución Educativa Chinas",
+    "institucion educativa titán": "Institución Educativa Titán"
+  }
+}
